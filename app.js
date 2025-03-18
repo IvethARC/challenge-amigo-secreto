@@ -75,5 +75,5 @@ function resetDraw() {
  document.getElementById("listaAmigos").innerHTML = "";
  document.getElementById("resultado").innerHTML = "";
  document.getElementById("mensajeVacio").style.display = "block";
- sorteoRealizado = false;
+ drawDone = false;
 }
